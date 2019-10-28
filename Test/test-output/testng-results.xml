@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2019-09-26T04:31:14Z" finished-at="2019-09-26T04:31:14Z">
+    <groups>
+      <group name="Scooter">
+        <method signature="GroupsTest.Scooter1()[pri:0, instance:test.GroupsTest@2cb4c3ab]" name="Scooter1" class="test.GroupsTest"/>
+        <method signature="GroupsTest.Scooter2()[pri:0, instance:test.GroupsTest@2cb4c3ab]" name="Scooter2" class="test.GroupsTest"/>
+      </group> <!-- Scooter -->
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2019-09-26T04:31:14Z" finished-at="2019-09-26T04:31:14Z">
+      <class name="test.GroupsTest">
+        <test-method status="PASS" signature="Scooter1()[pri:0, instance:test.GroupsTest@2cb4c3ab]" name="Scooter1" duration-ms="12" started-at="2019-09-26T10:01:14Z" finished-at="2019-09-26T10:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scooter1 -->
+        <test-method status="PASS" signature="Scooter2()[pri:0, instance:test.GroupsTest@2cb4c3ab]" name="Scooter2" duration-ms="0" started-at="2019-09-26T10:01:14Z" finished-at="2019-09-26T10:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scooter2 -->
+      </class> <!-- test.GroupsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
