@@ -8,6 +8,7 @@ public class GroupsTest {
 	  public void Car1() {
 	 
 	   System.out.println("Batch Car - Test car 1");
+	   System.out.println("Hi");
 	 
 	  }
 	 
